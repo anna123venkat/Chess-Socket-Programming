@@ -1,5 +1,3 @@
-Here's a `README.md` for your project: 
-
 ```markdown
 # Chess Game Using Socket Programming
 
