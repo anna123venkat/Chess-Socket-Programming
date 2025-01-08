@@ -17,10 +17,9 @@ This project is an implementation of an interactive online chess game that lever
 - **Environment:** Linux/Unix for testing
 
 ## Project Structure
-- **`Board.c`**: Contains functions for initializing and managing the chessboard.
-- **`Server.c`**: Implements the server-side logic for handling connections and game states.
-- **`Client.c`**: Implements the client-side logic for interacting with the game server.
-- **Project Report (PDF)**: Includes the abstract, objectives, implementation details, and output screenshots.
+- **`Code files`**: Contains the files board.c, Server.c, Client.c
+- **`Output`**: Contains a output pdf, with output screenshots
+
 
 ## How to Run
 ### Prerequisites
@@ -65,8 +64,4 @@ This project is an implementation of an interactive online chess game that lever
 - **Naboth Demetrius R** (9517202109036)
 - **Prasanna Venkatesh S** (9517202109040)
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-```
 
-Let me know if you'd like any changes or additional details added!
