@@ -1,4 +1,4 @@
-```markdown
+
 # Chess Game Using Socket Programming
 
 ## Overview
