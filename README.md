@@ -99,11 +99,11 @@ Example:
 
 ## Screenshots
 ### Server Running:
-![Server](assets/server.png)
+![Server](assets/server.jpg)
 
 ### Clients Playing:
-![Client 1](assets/client1.png)
-![Client 2](assets/client2.png)
+![Client 1](assets/Client_1.png)
+![Client 2](assets/Client_2.png)
 
 ---
 
