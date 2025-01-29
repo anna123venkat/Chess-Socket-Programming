@@ -1,5 +1,25 @@
 # Chess-Socket-Programming
 
+## Table of Contents  
+- [Overview](#overview)  
+- [Features](#features)  
+- [Project Structure](#project-structure)  
+- [Installation & Setup](#installation--setup)  
+  - [Clone the Repository](#1-clone-the-repository)  
+  - [Compile the Server & Client](#2-compile-the-server--client)  
+    - [For Server](#for-server)  
+    - [For Client](#for-client)  
+- [How to Play](#how-to-play)  
+  - [Start the Server](#1-start-the-server)  
+  - [Start the Clients](#2-start-the-clients)  
+  - [Gameplay](#3-gameplay)  
+- [Screenshots](#screenshots)  
+- [Troubleshooting](#troubleshooting)  
+- [References](#references)  
+- [Contributors](#contributors)  
+
+---
+
 ## Overview
 This project is a multiplayer Chess Game implemented using **C** and **socket programming**. It allows two players to connect over a network and play chess in real-time, using a **client-server architecture**.
 
@@ -129,5 +149,3 @@ Example:
 - **[Dinesh Kumar](https://github.com/sudoDinesh)**
 
 ---
-
-
